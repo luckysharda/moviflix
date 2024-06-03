@@ -1,8 +1,45 @@
-# React + Vite
+## Movix Single Page Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a fully functional and responsive movie information website built using React 18 and Redux Toolkit. The movie data is fetched using the TMDB API. This project is designed to be beginner-friendly, but it is also beneficial for professionals who are already familiar with React.
+## Features
 
-Currently, two official plugins are available:
+Fully functional and responsive design
+Home page with multiple sections
+Large search bar to search for movies or TV shows
+Trending section with tabs for trending movies
+Implementation of best practices and major functionalities
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+**React:** For building the user interface.
+**SCSS:** For styling the application.
+
+
+
+## Demo
+(https://moviflix-fth8.vercel.app/)  
+
+Installation
+To run this project locally, follow these steps:
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/luckysharda/moviflix.git
+```
+
+
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+```bash
+
+  npm start
+```
+
